@@ -1,5 +1,6 @@
 package com.hoomand.restclient;
 
+import com.hoomand.restclient.services.JokeService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
